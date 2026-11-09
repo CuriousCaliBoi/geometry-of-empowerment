@@ -2,6 +2,9 @@
 
 Includes code to reproduce all figures in ``The Geometry of Empowerment'' by Ji et al. 
 
+For a runnable mutual-information walkthrough and sampled doorway skill
+trajectories, see [the exploration examples](examples/README.md).
+
 ## Regenerating the figures
 
 ```bash
